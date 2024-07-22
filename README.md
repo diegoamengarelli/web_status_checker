@@ -33,6 +33,12 @@ You can use `wstatus` from the command line to check the status of websites.
 
     wstatus [options] <url>
 
+|  Option|  Description|
+|--|--|
+| -g / --get |  DEFAULT OPTION. Use GET method |
+|-p / --post| Use POST method|
+|-o / --output| Save the results to a file|
+
 Here are some examples:
 
 #### GET Method (default)
