@@ -39,6 +39,8 @@ You can use `wstatus` from the command line to check the status of websites.
 |-p / --post| Use POST method|
 |-o / --output| Save the results to a file|
 
+Note: if protocol is not specified in the url, https will be assumed
+
 Here are some examples:
 
 #### GET Method (default)
